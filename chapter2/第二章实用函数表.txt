@@ -1,0 +1,11 @@
+dir()
+help()
+int()
+len()
+open()
+range()
+raw_input()
+str()
+type()
+
+:
