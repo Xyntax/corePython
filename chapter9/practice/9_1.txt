@@ -1,6 +1,0 @@
-# aaa
-  # aaa
-ppp # aaa
-ppp
-ppp
-the true ans is 4
